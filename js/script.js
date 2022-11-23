@@ -10,9 +10,10 @@ dl_mod.addEventListener('mouseout', (event) => {dl_mod.src=btn[0]});
 
 
 
-// update link------------------------------------>
+// Update link------------------------------------>
 
 url.href = "https://cdn.discordapp.com/attachments/1031956188490911934/1043931122263920710/TS4LAO_NOTOSANLAO_BY_WEIXIAO.package";
+
 
 
 
